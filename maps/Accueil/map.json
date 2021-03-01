@@ -73,7 +73,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/ynov\/ynovjpo2020\/audiovisuel"
+                 "value":"https:\/\/play.workadventu.re\/@\/ynov-paris\/jpo\/audio"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -91,7 +91,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/ynov\/ynovjpo2020\/animation3d"
+                 "value":"https:\/\/nsisalem.github.io\/pyc-ejpo-maps\/maps\/Animation3D\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -109,7 +109,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/ynov\/ynovjpo2020\/newcrea"
+                 "value":"https:\/\/play.workadventu.re\/@\/ynov-paris\/jpo\/crea"
                 }],
          "type":"tilelayer",
          "visible":true,
