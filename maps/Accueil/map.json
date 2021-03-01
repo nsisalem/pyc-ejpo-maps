@@ -55,7 +55,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/ynov\/ynovjpo2020\/informatique"
+                 "value":"@\/ynov-paris\/jpo\/info"
                 }],
          "type":"tilelayer",
          "visible":true,
