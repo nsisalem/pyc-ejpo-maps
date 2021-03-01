@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/ynov\/ynovjpo2020\/commmarket"
+                 "value":"https:\/\/play.workadventu.re\/@\/ynov-paris\/jpo\/marketing"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -91,7 +91,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/nsisalem.github.io\/pyc-ejpo-maps\/maps\/Animation3D\/map.json"
+                 "value":"https:\/\/play.workadventu.re\/@\/ynov-paris\/jpo\/anim3d"
                 }],
          "type":"tilelayer",
          "visible":true,

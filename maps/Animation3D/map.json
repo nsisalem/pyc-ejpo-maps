@@ -25,7 +25,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/ynov\/ynovjpo2020\/poleentreprise"
+                 "value":"https:\/\/play.workadventu.re\/@\/ynov-paris\/jpo\/accueil"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -324,7 +324,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"2021.01.13",
+ "tiledversion":"2021.02.15",
  "tileheight":32,
  "tilesets":[
         {
@@ -3837,6 +3837,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":1.5,
  "width":66
 }
