@@ -55,7 +55,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/ynov-paris\/jpo\/info"
+                 "value":"https:\/\/play.workadventu.re\/@\/ynov-paris\/jpo\/info"
                 }],
          "type":"tilelayer",
          "visible":true,
