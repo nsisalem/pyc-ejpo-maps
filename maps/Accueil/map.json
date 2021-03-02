@@ -157,18 +157,7 @@
          "draworder":"topdown",
          "id":3,
          "name":"floorLayer",
-         "objects":[
-                {
-                 "height":41.3333333333333,
-                 "id":1,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":185.333333333333,
-                 "x":530.666666666667,
-                 "y":290.666666666667
-                }],
+         "objects":[],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
