@@ -22,7 +22,7 @@
          "name":"exit",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":54,
          "x":0,
          "y":0
@@ -40,7 +40,7 @@
                  "value":"https:\/\/play.workadventu.re\/@\/ynov-paris\/jpo\/marketing"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":54,
          "x":0,
          "y":0
@@ -58,7 +58,7 @@
                  "value":"https:\/\/play.workadventu.re\/@\/ynov-paris\/jpo\/info"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":54,
          "x":0,
          "y":0
@@ -76,7 +76,7 @@
                  "value":"https:\/\/play.workadventu.re\/@\/ynov-paris\/jpo\/audio"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":54,
          "x":0,
          "y":0
@@ -94,7 +94,7 @@
                  "value":"https:\/\/play.workadventu.re\/@\/ynov-paris\/jpo\/anim3d"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":54,
          "x":0,
          "y":0
@@ -112,7 +112,7 @@
                  "value":"https:\/\/play.workadventu.re\/@\/ynov-paris\/jpo\/crea"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":54,
          "x":0,
          "y":0
@@ -136,7 +136,7 @@
          "name":"sol",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":54,
          "x":0,
          "y":0
@@ -148,7 +148,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":54,
          "x":0,
          "y":0
@@ -157,10 +157,21 @@
          "draworder":"topdown",
          "id":3,
          "name":"floorLayer",
-         "objects":[],
+         "objects":[
+                {
+                 "height":41.3333333333333,
+                 "id":1,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":185.333333333333,
+                 "x":530.666666666667,
+                 "y":290.666666666667
+                }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -171,13 +182,13 @@
          "name":"meuble",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":54,
          "x":0,
          "y":0
         }],
- "nextlayerid":108,
- "nextobjectid":1,
+ "nextlayerid":109,
+ "nextobjectid":2,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"2021.02.15",
