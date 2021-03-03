@@ -65,7 +65,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"collides",
+                 "name":"Collision",
                  "type":"bool",
                  "value":true
                 }],
