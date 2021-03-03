@@ -157,7 +157,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/wa.ynov-bordeaux.com\/video_audio.html"
+                 "value":"https:\/\/youtube.com\/playlist?list=PLR55CLEdtjaxtojB7ov8ixgLyC2dnCd7s"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -175,7 +175,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/wa.ynov-bordeaux.com\/video_audio.html"
+                 "value":"https:\/\/youtube.com\/playlist?list=PLR55CLEdtjawpJrp0UXoQ37FvOUfLt0q8"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -193,7 +193,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/wa.ynov-bordeaux.com\/video_audio.html"
+                 "value":"https:\/\/youtube.com\/playlist?list=PLR55CLEdtjawvBkvcZ1woxQaAA9zqIO6w"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -211,7 +211,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/wa.ynov-bordeaux.com\/video_audio.html"
+                 "value":"https:\/\/youtube.com\/playlist?list=PLR55CLEdtjawO6R-jahwkWtfMkw-Vma-d"
                 }],
          "type":"tilelayer",
          "visible":true,
