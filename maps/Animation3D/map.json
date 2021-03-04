@@ -66,11 +66,11 @@
     
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/48382319/ws?session=eyJ2IjoiVjMiLCJ1Ijo0ODM4MjMxOSwicyI6NjU3MTM3OTE3LCJjIjo5NDkyNTgyOTAsInQiOjE2MTQ4NzYwMTN9--bc31ab9ace36cf81021c5486c561eb248a7e63d6d2683b41582d27760463c46d" data-refresh-url="/_alive">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/48382319/ws?session=eyJ2IjoiVjMiLCJ1Ijo0ODM4MjMxOSwicyI6NjU3MTM3OTE3LCJjIjozMDIxMjU1Njk5LCJ0IjoxNjE0ODc2MTM3fQ==--bd25b08b14eb558d9011de2ea20dabddf7ae4b8152d073b528cc9d5843cb1a15" data-refresh-url="/_alive">
     <link rel="shared-web-socket-src" href="/socket-worker-5029ae85.js">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="F7D0:9173:2FBC1:315C6:60410D65" data-pjax-transient="true" /><meta name="html-safe-nonce" content="dfc4973d85f2a22cec524f1528d9092297523443a3960d316508441fdcb01fff" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9uc2lzYWxlbS9weWMtZWpwby1tYXBzL3RyZWUvYzk4ODM1MzA2NTkzOTVhYTg3ODZlNmI3YjY4NDVhY2JiNzg4MzQ1NC9tYXBzL0FuaW1hdGlvbjNEIiwicmVxdWVzdF9pZCI6IkY3RDA6OTE3MzoyRkJDMTozMTVDNjo2MDQxMEQ2NSIsInZpc2l0b3JfaWQiOiIxNDc3ODA3ODUxOTkxNzk2OTEyIiwicmVnaW9uX2VkZ2UiOiJmcmEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true" /><meta name="visitor-hmac" content="96035dec3353072695ad8d6fcaab016f4414d1ba2af946059c618db03fcc8ed7" data-pjax-transient="true" />
+  <meta name="request-id" content="F7D0:9173:374D4:3925C:60410DE4" data-pjax-transient="true" /><meta name="html-safe-nonce" content="dfc4973d85f2a22cec524f1528d9092297523443a3960d316508441fdcb01fff" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9uc2lzYWxlbS9weWMtZWpwby1tYXBzL3RyZWUvYzk4ODM1MzA2NTkzOTVhYTg3ODZlNmI3YjY4NDVhY2JiNzg4MzQ1NC9tYXBzL0FuaW1hdGlvbjNEIiwicmVxdWVzdF9pZCI6IkY3RDA6OTE3MzozNzRENDozOTI1Qzo2MDQxMERFNCIsInZpc2l0b3JfaWQiOiIxNDc3ODA3ODUxOTkxNzk2OTEyIiwicmVnaW9uX2VkZ2UiOiJmcmEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true" /><meta name="visitor-hmac" content="561978b31c163fc7c0ee8556dc1453f4588c53c149286d2584b5c3627ead351c" data-pjax-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:341906990" data-pjax-transient>
 
@@ -109,7 +109,7 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="YTUyYzIwZDQzMWM4NmJlY2FiMmI1YWFlOGRhYWJiOTAzYjRhYzUwM2YwNDdlNmE3MWM5MTVmNDNkZTViODFiNXx7InJlbW90ZV9hZGRyZXNzIjoiNzcuMTU4LjE2My4xMCIsInJlcXVlc3RfaWQiOiJGN0QwOjkxNzM6MkZCQzE6MzE1QzY6NjA0MTBENjUiLCJ0aW1lc3RhbXAiOjE2MTQ4NzYwMTMsImhvc3QiOiJnaXRodWIuY29tIn0=">
+      <meta name="js-proxy-site-detection-payload" content="MmQwNWMzZWE5NjU4MzNiNWU4MGJhMmQ1OWZlZTE1MmE3OWQ3MWYyZmJkYjdkYjAyYTY4NGM2NmU3NmQ0MjAzMXx7InJlbW90ZV9hZGRyZXNzIjoiNzcuMTU4LjE2My4xMCIsInJlcXVlc3RfaWQiOiJGN0QwOjkxNzM6Mzc0RDQ6MzkyNUM6NjA0MTBERTQiLCJ0aW1lc3RhbXAiOjE2MTQ4NzYxMzcsImhvc3QiOiJnaXRodWIuY29tIn0=">
 
     <meta name="enabled-features" content="MARKETPLACE_PENDING_INSTALLATIONS,JS_HTTP_CACHE_HEADERS,AUTOCOMPLETE_EMOJIS_IN_MARKDOWN_EDITOR">
 
@@ -198,7 +198,7 @@
           spellcheck="false"
           autocomplete="off"
           >
-          <input type="hidden" value="ha5WIo8yzOlxwnhQ+NO3FmDUdqs5C8KZehdbd4pRkWxay25Krl5b+dzfgzLM5mMooa1jJO5a5Z2p/b0eNfLc4g==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+          <input type="hidden" value="CbdaMa0tWO8aM04awGMTkbPkJOdPJmuYR0Gpk9NYckHW0mJZjEHP/7cutXj0Vsevcp0xaJh3TJyUq0/6bPs/zw==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -386,7 +386,7 @@
       <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/48382319?s=40&amp;v=4" width="20" height="20" alt="@nsisalem" />
       nsisalem
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="uTcfIgU57xIvVhGS6ExCUhYJTQ8pJD18IUxBGx91AHAZMZjxTtA34L7vZX/WR8U09Nzyt2zvvs68jMD6bp8ZVg==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="XwCyaAm1pUPQZ/Uh18LTMV8tQJlgmL8XlDP/Xr2xwm7/BjW7Qlx9sUHegczpyVRXvfj/ISVTPKUJ836/zFvbSA==" />
       <button type="submit" class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade-15 d-md-none btn-link d-block width-full text-left" data-ga-click="Header, sign out, icon:logout" style="padding-left: 2px;">
         <svg class="octicon octicon-sign-out v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M2 2.75C2 1.784 2.784 1 3.75 1h2.5a.75.75 0 010 1.5h-2.5a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h2.5a.75.75 0 010 1.5h-2.5A1.75 1.75 0 012 13.25V2.75zm10.44 4.5H6.75a.75.75 0 000 1.5h5.69l-1.97 1.97a.75.75 0 101.06 1.06l3.25-3.25a.75.75 0 000-1.06l-3.25-3.25a.75.75 0 10-1.06 1.06l1.97 1.97z"></path></svg>
         Sign out
@@ -406,7 +406,7 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
         
 
-    <notification-indicator class="js-socket-channel" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NDgzODIzMTkiLCJ0IjoxNjE0ODc2MDEzfQ==--e1db4dcda48ee0b141d68777e79c2a36afc0dcf0b87ad9125e63fff39c211238">
+    <notification-indicator class="js-socket-channel" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NDgzODIzMTkiLCJ0IjoxNjE0ODc2MTM4fQ==--d3176a1a5b1fb8b7c0f0930b9990f67aa9105993d5d6980587b0d4b49be98154">
       <a href="/notifications"
          class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
          
@@ -626,7 +626,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="gf1SND1+pJrP622RobPwLlfc4Vy1CaGgcF8AFrRDls4kPx6BuQnPsOA7b54VvEetepwrAky75pQg//opeqSImg==" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="qhcolaOKgMvch1uKs9emZOJyGtrGobmg3LIrpHOpYAcP1WQgJ/3r4fNXWYUH2BHnzzLQhD8T/pSMEtGbvU5+Uw==" />
 
                 <input type="hidden" name="repository_id" value="341906990">
 
@@ -728,7 +728,7 @@
 
         <details-dialog class="notifications-component-dialog " data-target="notifications-list-subscription-form.customDialog" hidden>
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="OfgsG5q9s6EHXHnJ3BRyyrO4QXsIDW/ys7i/R5O3r2qcOmCuHsrYiyiMe8ZoG8VJnviLJfG/KMbjGEV4XVCxPg==" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="NCYRaYw0WA72OMjxsL0MGqsbKi6iMy0hrpIiODmuHuiR5F3cCEMzJNnoyv4EsruZhlvgcFuBahX+MtgH90kAvA==" />
 
               <input type="hidden" name="repository_id" value="341906990">
 
@@ -864,7 +864,7 @@
 
   <li>
         <div class="d-block js-toggler-container js-social-container starring-container ">
-    <form class="starred js-social-form" action="/nsisalem/pyc-ejpo-maps/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="3i9IHPg4fbsPrs1OUNCuzjkQ9U5enb7rGP0Z3679lRibH9VcDTudKKk4lGSIr6GrnFu561XSR4q8r4xNehkh2A==" />
+    <form class="starred js-social-form" action="/nsisalem/pyc-ejpo-maps/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="dXuNHr/Le1/jdIqhmVvD1j6+41KaXGtTf5dJ4Jn8MoMwSxBeSsibzEXi04tBJMyzm/Wv95ETkjLbxdxyTRiGQw==" />
       <input type="hidden" name="context" value="repository">
       <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Unstar nsisalem/pyc-ejpo-maps" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:341906990,&quot;originating_url&quot;:&quot;https://github.com/nsisalem/pyc-ejpo-maps/blob/c9883530659395aa8786e6b7b6845acbb7883454/maps/Animation3D/map.json&quot;,&quot;user_id&quot;:48382319}}" data-hydro-click-hmac="3b0239096e7baf07ae3d1a39be2af65e899d78763c980299cee0e103af789d1d" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star-fill mr-1" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path></svg>
         <span>
@@ -874,7 +874,7 @@
            0
         </a>
 </form>
-    <form class="unstarred js-social-form" action="/nsisalem/pyc-ejpo-maps/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="+1I8Hv9rh5q9CTPH6//Da+iU0cEIQDzJZYPAFJLd8yS7/+SPBiWlf0c2OxgPpNzqSzHrjMZqsPgF0amDx/vSXw==" />
+    <form class="unstarred js-social-form" action="/nsisalem/pyc-ejpo-maps/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="YI/GfbYU/7bHcvw3WjcpOztW4liEET8FVtYlvLPDdjUgIh7sT1rdUz1N9Oi+bDa6mPPYFUo7szQ2hEwr5uVXTg==" />
       <input type="hidden" name="context" value="repository">
       <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Star nsisalem/pyc-ejpo-maps" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:341906990,&quot;originating_url&quot;:&quot;https://github.com/nsisalem/pyc-ejpo-maps/blob/c9883530659395aa8786e6b7b6845acbb7883454/maps/Animation3D/map.json&quot;,&quot;user_id&quot;:48382319}}" data-hydro-click-hmac="8d8ba2995df1df63dd3adaa9543b10820485ab392f096379e1e42ef6204edd66" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star mr-1" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path></svg>
         <span>
@@ -1105,7 +1105,7 @@
           >
 
             <template data-target="ref-selector.noMatchTemplate">
-                <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/nsisalem/pyc-ejpo-maps/branches" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Amd6C/nd7AaJx08R+XVI4M+wWeWczHRG1ubXrCv3HjbjJYfeMru7F+a+FYnp+wRLKPgBqVJViI+EPfPp76VKxA==" />
+                <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/nsisalem/pyc-ejpo-maps/branches" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="U03kihFVsKzHIymOw7FsfttQTrxyK6FM4SR1wobWTMiyDxlf2jPnvahacxbTPyDVPBgW8LyyXYWz/1GHQoQYOg==" />
                   <input type="hidden" name="name" value="{{ refName }}">
                   <input type="hidden" name="branch"  value="c9883530659395aa8786e6b7b6845acbb7883454">
                   <input type="hidden" name="path_binary" value="bWFwcy9BbmltYXRpb24zRC9tYXAuanNvbg==">
